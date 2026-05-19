@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://star-clusters-megapays-ru-yohoslot.github.io/sitemap.xml
